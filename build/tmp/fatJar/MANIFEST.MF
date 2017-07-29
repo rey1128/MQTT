@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Version: 1.0
+MQSub: Gradle Jar File Example
+Main-Class: com.rey.MQSub
+
